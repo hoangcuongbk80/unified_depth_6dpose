@@ -28,3 +28,7 @@ core/Depth6DPose/train.sh <config_path> <gpu_ids> (other args)
 ```
 core/Depth6DPose/test.sh <config_path> <gpu_ids> (other args)
 ```
+
+### Qualitative Results.
+
+![](assets/result.png)
